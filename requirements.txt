@@ -1,0 +1,7 @@
+jupyterlab
+nb_black
+numpy
+matplotlib
+scikit-learn
+torch
+torchvision
